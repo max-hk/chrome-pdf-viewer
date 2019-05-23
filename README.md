@@ -12,7 +12,7 @@ You need to have Google Chrome installed in order to use this program
 
 - Right click on a PDF file
 
-- Select Open With > Choose Another App 
+- Select `Open With` > `Choose Another App`
 
 - Check the `Always use this app to open .pdf files` checkbox
 
