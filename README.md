@@ -2,6 +2,8 @@
 
 The simple go program served as a shortcut to open pdf in a popup Chrome window without tab bar and address bar
 
+![Screenshot](https://raw.githubusercontent.com/maxloh/chrome-pdf-viewer/readme/screenshot.png)
+
 ## Usage
 
 You need to have Google Chrome installed in order to use this program
@@ -39,3 +41,9 @@ You need to have Google Chrome installed in order to use this program
 - The Windows entry-point of C++ is `wWinMain()`, which use a complex `PWSTR` type variable to pass command line parameters
 
 - I chose Go because it support UTF-8 parameters, with a simple `[]string` type
+
+## Credits
+
+- Program icon from [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/pdf-box.svg), licensed under [SIL Open Font License, Version 1.1](https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+
+- Sample PDF file in screenshot from [mozilla/pdf.js](https://github.com/mozilla/pdf.js/blob/gh-pages/web/compressed.tracemonkey-pldi-09.pdf), licensed under [Apache License 2.0](https://github.com/mozilla/pdf.js/blob/gh-pages/LICENSE)
