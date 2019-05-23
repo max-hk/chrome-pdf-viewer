@@ -2,6 +2,24 @@
 
 The simple go program served as a shortcut to open pdf in a popup Chrome window without tab bar and address bar
 
+## Usage
+
+You need to have Google Chrome installed in order to use this program
+
+- Open File Explorer
+
+- Right click on a PDF file
+
+- Select Open With > Choose Another App 
+
+- Check the `Always use this app to open .pdf files` checkbox
+
+- Select `More apps`
+
+- Scroll to the bottom and select `Look for another app on this PC`
+
+- Select the downloaded binary from "Release" page
+
 ## How it works?
 
 - `--app=URL` Chrome command line switch opens Chrome in application mode with the specified URL (`URL`)
