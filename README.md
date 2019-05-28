@@ -20,7 +20,7 @@ You need to have Google Chrome installed in order to use this program
 
 - Scroll to the bottom and select `Look for another app on this PC`
 
-- Select the downloaded binary from "Release" page
+- Select the downloaded binary from [Releases](https://github.com/maxloh/chrome-pdf-viewer/releases) page
 
 ## How it works?
 
@@ -40,10 +40,10 @@ You need to have Google Chrome installed in order to use this program
 
 - The Windows entry-point of C++ is `wWinMain()`, which use a complex `PWSTR` type variable to pass command line parameters
 
-- I chose Go because it support UTF-8 parameters, with a simple `[]string` type
+- Go is selected because it support UTF-8 parameters, with a simple `[]string` type
 
 ## Credits
 
-- Program icon from [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/pdf-box.svg), licensed under [SIL Open Font License, Version 1.1](https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+- Program icon from [chromium/chromium](https://github.com/chromium/chromium/blob/2d57e5b8afc6d01b344a8d95d3470d46b35845c5/chrome/browser/resources/settings/icons.html#L114), licensed under [a BSD-style license](https://github.com/chromium/chromium/blob/master/LICENSE)
 
-- Sample PDF file in screenshot from [mozilla/pdf.js](https://github.com/mozilla/pdf.js/blob/gh-pages/web/compressed.tracemonkey-pldi-09.pdf), licensed under [Apache License 2.0](https://github.com/mozilla/pdf.js/blob/gh-pages/LICENSE)
+- Sample PDF file in screenshot from [mozilla/pdf.js](https://github.com/mozilla/pdf.js/blob/f652cf8e5ea127393ee83e6cb30c51ecd6ce91c3/web/compressed.tracemonkey-pldi-09.pdf), licensed under [Apache License 2.0](https://github.com/mozilla/pdf.js/blob/master/LICENSE)
