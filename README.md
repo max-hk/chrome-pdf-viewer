@@ -44,6 +44,6 @@ You need to have Google Chrome installed in order to use this program
 
 ## Credits
 
-- Program icon from [chromium/chromium](https://github.com/chromium/chromium/blob/2d57e5b8afc6d01b344a8d95d3470d46b35845c5/chrome/browser/resources/settings/icons.html#L114), licensed under [a BSD-style license](https://github.com/chromium/chromium/blob/master/LICENSE)
+- Program icon from [chromium/chromium](https://chromium.googlesource.com/chromium/src/+/28ee90fc0392760f358c16cbb57c0323500d7bb0/chrome/browser/resources/settings/icons.html#123), licensed under [a BSD-style license](https://chromium.googlesource.com/chromium/src/+/refs/heads/master/LICENSE)
 
 - Sample PDF file in screenshot from [mozilla/pdf.js](https://github.com/mozilla/pdf.js/blob/f652cf8e5ea127393ee83e6cb30c51ecd6ce91c3/web/compressed.tracemonkey-pldi-09.pdf), licensed under [Apache License 2.0](https://github.com/mozilla/pdf.js/blob/master/LICENSE)
