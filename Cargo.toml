@@ -1,0 +1,11 @@
+[package]
+name = "chrome-pdf-viewer"
+version = "2.0.0"
+authors = ["maxloh <35831069+maxloh@users.noreply.github.com>"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+url = "2.1.1"
