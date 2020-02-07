@@ -1,6 +1,6 @@
 # chrome-pdf-viewer
 
-This simple go program served as a shortcut to open pdf in a popup Chrome window without tab bar and address bar
+This simple rust program served as a shortcut to open pdf in a popup Chrome window without tab bar and address bar
 
 ![Screenshot](https://raw.githubusercontent.com/maxloh/chrome-pdf-viewer/readme/screenshot.png)
 
