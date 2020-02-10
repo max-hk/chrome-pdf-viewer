@@ -26,11 +26,11 @@ You need to have Google Chrome installed in order to use this program
 
 ### Prerequisites
 
-- Rust installed
+- [Rust](https://www.rust-lang.org/tools/install) installed
 
-- [Visual C++ Build Tools 2015](https://go.microsoft.com/fwlink/?LinkId=691126) installed
+- [Build Tools for Visual Studio 2019](https://visualstudio.microsoft.com/downloads/#vstool-2019-family) installed
 
-- [ImageMagick](https://imagemagick.org/script/download.php) installed (for converting icon to .ico file)
+- [ImageMagick](https://imagemagick.org/script/download.php#windows) installed (for converting icon to .ico file)
 
 - [rcedit](https://github.com/electron/rcedit/releases) downloaded and put to repo's root directory
 
