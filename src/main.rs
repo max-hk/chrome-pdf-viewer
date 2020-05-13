@@ -11,9 +11,10 @@ fn main() {
         .finish()[1..]
         .replace("%3A", ":")
         .replace("%5C", "\\")
+        .replace("%2F", "/")
         .replace("+", "%20");
-    Command::new("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe")
-        .arg("--app=".to_owned() + &path)
+    Command::new("/opt/google/chrome/google-chrome")
+        .arg("--app=file:///".to_owned() + &path)
         .spawn()
         .expect("PDF viewer failed to start");
 }
