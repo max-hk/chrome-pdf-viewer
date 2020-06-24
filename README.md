@@ -14,15 +14,15 @@ You need to have Google Chrome installed in order to use this program
 
 - Right click on a PDF file
 
-- Select `Open With` > `Choose Another App`
+- Select **Open with** > **Choose another app**
 
-- Check the `Always use this app to open .pdf files` checkbox
+- Check the **Always use this app to open .pdf files** checkbox
 
-- Select `More apps`
+- Select **More apps**
 
-- Scroll to the bottom and select `Look for another app on this PC`
+- Scroll to the bottom and select **Look for another app on this PC**
 
-- Select the downloaded .exe file from [Releases](https://github.com/maxloh/chrome-pdf-viewer/releases) page
+- Select the downloaded .exe file from [Releases](https://github.com/maxloh/chrome-pdf-viewer/releases) page, and select **OK**
 
 ## Build
 
