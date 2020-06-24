@@ -38,9 +38,7 @@ You need to have Google Chrome installed in order to use this program
 
 ### Run the build
 
-```
-build.bat
-```
+- Run **build.bat**
 
 ## Credits
 
