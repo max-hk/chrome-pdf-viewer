@@ -34,7 +34,7 @@ You need to have Google Chrome installed in order to use this program
 
 - [ImageMagick](https://imagemagick.org/script/download.php#windows) installed (for converting icon to .ico file)
 
-- [rcedit](https://github.com/electron/rcedit/releases) downloaded and put into your path
+- [Rcedit](https://github.com/electron/rcedit/releases) downloaded and put into your path
 
 ### Run the build
 
